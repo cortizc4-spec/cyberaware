@@ -1,0 +1,30 @@
+.reportes-container{
+    min-height:100vh;
+    background:#0F172A;
+    color:white;
+    text-align:center;
+    padding:50px;
+}
+
+.reportes-container h1{
+    margin-bottom:40px;
+}
+
+.reportes-cards{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.reporte-card{
+    width:250px;
+    background:#1E293B;
+    padding:30px;
+    border-radius:15px;
+}
+
+.reporte-card h2{
+    color:#3B82F6;
+    font-size:40px;
+}
